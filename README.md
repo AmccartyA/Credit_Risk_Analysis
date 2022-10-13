@@ -24,4 +24,4 @@ Since Credit risk is an inherently unbalanced classification problem, I was task
 
 ## Summary
  
-When working with machine learning data, using the model with the best accuracy will help determine the most likely future outcome. With the accuracy being low on most of the models, I would keep with the Easy ensemble classifiers to best predict credit risk.
+When working with machine learning data, using the model with the best accuracy will help determine the most likely future outcome. With the accuracy score being around 70% for all but one model. With a Score of 94%, I would reccomend we go with the Easy Ensemble AdaBoost Classifier when determining Credit Risk.
