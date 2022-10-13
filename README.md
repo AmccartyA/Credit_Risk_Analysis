@@ -7,7 +7,8 @@ Since Credit risk is an inherently unbalanced classification problem, I was task
 * Naive Random OverSampling: With an Accuracy score of 64.6%. The recall was 71%.
 ![Naive Over](https://user-images.githubusercontent.com/103524591/195484247-837b59f8-ce7b-4bac-8ec7-562d040e4372.png)
 
-* SMOTE oversampling: the balanced score is 65.8%, the precision for the high_risk loans has a low positivity again at 1% and recall is 68% overall
+* SMOTE oversampling: the balanced score is 65.8%, the precision for the high_risk loans has a low positivity
+again at 1% and recall is 68% overall
 ![Smote over](https://user-images.githubusercontent.com/103524591/195484259-88fa224c-f9f7-46da-9e63-d5c755af2c5b.png)
 
 * Undersampling : The balanced score was 54.4% overall and the recall is 40%
